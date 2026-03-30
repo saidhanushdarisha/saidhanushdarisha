@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Dhanush Darisha</h1>
 <h3 align="center">Junior Web Developer | Full-Stack Enthusiast | CSE Graduate from SRIT, Anantapur</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Junior+Web+Developer+%40+Invicto+Labs;MERN+Stack+%7C+Java+%7C+Spring+Boot;Web+Automation+with+Puppeteer;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
-</p>
 
 ---
 
