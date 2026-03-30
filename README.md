@@ -12,7 +12,7 @@
 - 🤖 Building large-scale **web automation** solutions for 100+ U.S. government websites using **Node.js & Puppeteer**
 - 💡 Passionate about full-stack development, clean code, and innovative digital solutions
 - 📫 Reach me at: **saidhanushdarisha@gmail.com**
-- 🔗 Portfolio: [saidhanushdarisha.github.io/darishasaidhanush](https://saidhanushdarisha.github.io/darishasaidhanush/)
+- 🔗 Portfolio: [Link](https://darishasaidhanushportofolio.onrender.com/)
 
 ---
 
